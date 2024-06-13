@@ -12,12 +12,4 @@ Many operations are CRUD, MVC flow.
 • Serviced CRUD (Create, Read, Update, Delete) functionality
 for events, granting users streamlined event management
 capabilities and realising a 15% boost in operational efficiency
-<html>
-  <head>
-    </head>
-  <body>
 
-    <a href="https://github.com/jitendrakumarswain/FoodBox_web_project" class="block-20 zoom-effect" style="background-image: url('./images/Foodbox\ page.png');"> </a>
-
-  </body>
-  </html>
